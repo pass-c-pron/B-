@@ -1,2 +1,2 @@
-# B-
+# python - B- request  Anime convention
 爬取b站河南以内的所有漫展信息，包括漫展名称，举办时间，漫展宣传图，漫展票价，漫展嘉宾等
